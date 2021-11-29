@@ -1,0 +1,8 @@
+Product{id=1, name='Hat', price=15.6, quantity=5, description='red'}
+
+Product{id=2, name='Shirt', price=29.5, quantity=20, description='yellow'}
+
+Product{id=3, name='Jeans', price=15.6, quantity=9, description='blue'}
+
+Product{id=4, name='Capo', price=5.0, quantity=31, description='green'}
+
